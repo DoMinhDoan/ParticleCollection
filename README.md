@@ -6,9 +6,17 @@ A place to show the particle system collection. Fell free to use it :)
 
 ## Features:
 
+### Action Particle
+
 * Fire Particle
 
 ![Fire Particle](docgen/firePS.PNG "Fire Particle")
+
+* Explosion
+
+![Explosion Particle](docgen/explosionPS.PNG "Explosion Particle")
+
+### Environment Particle
 
 * Ground Pound Particle
 
