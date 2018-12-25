@@ -562,6 +562,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ExplosionPS
       objectReference: {fileID: 0}
+    - target: {fileID: 2976076131626941135, guid: 7194929f0ee93d94e836c83ea9dfd6d9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2976076131626941168, guid: 7194929f0ee93d94e836c83ea9dfd6d9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -616,6 +621,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2976076131626941169, guid: 7194929f0ee93d94e836c83ea9dfd6d9,
+        type: 3}
+      propertyPath: looping
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7194929f0ee93d94e836c83ea9dfd6d9, type: 3}
